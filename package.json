@@ -1,0 +1,23 @@
+{
+  "name": "@nabeel-digital/atm-machine",
+  "version": "1.0.0",
+  "description": "This is a CLI ATM machine pkg.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metaverse-Nabeel/ATM-machine-npm-pkg.git"
+  },
+  "keywords": [
+    "atm-machine"
+  ],
+  "author": "Nabeel Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metaverse-Nabeel/ATM-machine-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/Metaverse-Nabeel/ATM-machine-npm-pkg#readme"
+}
