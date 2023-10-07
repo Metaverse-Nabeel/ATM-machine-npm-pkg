@@ -23,5 +23,8 @@
   "dependencies": {
     "@faker-js/faker": "^8.1.0",
     "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
   }
 }
