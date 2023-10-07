@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Metaverse-Nabeel/ATM-machine-npm-pkg/issues"
   },
-  "homepage": "https://github.com/Metaverse-Nabeel/ATM-machine-npm-pkg#readme"
+  "homepage": "https://github.com/Metaverse-Nabeel/ATM-machine-npm-pkg#readme",
+  "dependencies": {
+    "@faker-js/faker": "^8.1.0",
+    "inquirer": "^9.2.11"
+  }
 }
