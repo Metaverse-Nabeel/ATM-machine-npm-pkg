@@ -1,0 +1,4 @@
+Requirements:
+- User Details
+- ATM machine
+- ATM functions
