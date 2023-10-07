@@ -169,6 +169,7 @@ const atmFunction = async (user) => {
         default:
             break;
     }
+    console.log(chalk.bold.green("*** Thank you for Banking with us! ***"));
 };
 //Generating 10000 Fake Users using Faker JS
 let users = createUser();
